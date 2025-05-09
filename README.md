@@ -4,7 +4,7 @@ This project is a solution to the **SudoKing Challenge**, which requires impleme
 
 ---
 
-## 📌 Challenge Overview
+##  Challenge Overview
 
 The solver must follow these rules:
 - Each row must contain digits `1` through `9` without repetition.
@@ -14,7 +14,7 @@ The solver must follow these rules:
 
 ---
 
-## 🚀 Solution Approach
+##  Solution Approach
 
 The project uses a combination of **backtracking** and **constraint propagation**:
 
@@ -26,7 +26,7 @@ The project uses a combination of **backtracking** and **constraint propagation*
 
 ---
 
-## 🧠 Algorithm Details
+##  Algorithm Details
 
 ### ✔ Backtracking with Constraint Propagation
 - Cells are filled recursively, trying digits `1–9`.
